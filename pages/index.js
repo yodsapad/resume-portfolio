@@ -18,7 +18,8 @@ export default function Home() {
             <p className="text-sm">
               Hello! I am <strong className="text-purple-600">Yodsapad Soontarawong</strong>, passionate about
               learning new things and embracing challenges at work. I enjoy developing myself and expanding my skills, especially with new technologies and modern work practices.
-              on new roles helps me grow professionally and provides valuable opportunities to learn from real experiences
+              on new roles helps me grow professionally and provides valuable opportunities to learn from real experiences, allowing me to create meaningful work.
+              In my spare time, I like to explore new frameworks,
             </p>
           </div>
         </section>
