@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <div className="bg-black text-white min-h-screen flex flex-col items-center justify-between px-8">
+    <div className="bg-black text-white min-h-screen flex flex-col items-center justify-between">
       {/* Header */}
       <header className="bg-purple-600 w-full text-center text-3xl font-bold text-black py-2">
         RESUME
