@@ -17,9 +17,7 @@ export default function Home() {
             </h2>
             <p className="text-sm">
               Hello! I am <strong className="text-purple-600">Yodsapad Soontarawong</strong>, passionate about
-              learning new things and embracing challenges at work. I enjoy
-              developing myself and expanding my skills, especially with new
-              technologies and modern work practices.
+              learning new things and embracing challenges at work. 
             </p>
           </div>
         </section>
