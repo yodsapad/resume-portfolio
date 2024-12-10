@@ -19,7 +19,11 @@ export default function Home() {
               Hello! I am <strong className="text-purple-600">Yodsapad Soontarawong</strong>, passionate about
               learning new things and embracing challenges at work. I enjoy
               developing myself and expanding my skills, especially with new
-              technologies and modern work practices. In my spare time, I like to explore new frameworks,work on side projects, and share knowledge through online platforms.
+              technologies and modern work practices. 
+              In my spare time, I like 
+              to explore new frameworks,work on side projects,
+               and share knowledge through online platforms.I’m always open to learning from others 
+               and collaborating on exciting challenges.
             </p>
           </div>
         </section>
